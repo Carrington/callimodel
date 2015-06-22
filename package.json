@@ -1,0 +1,32 @@
+{
+  "name": "callimodel",
+  "version": "0.1.0",
+  "description": "Domain Model for Calliope",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.2.1",
+    "bluebird": "^2.9.30",
+    "es6-module-loader": "^0.17.2",
+    "gulp": "^3.9.0",
+    "gulp-karma": "^0.0.4",
+    "karma": "^0.12.36",
+    "lodash": "^3.9.3",
+    "mockery": "^1.4.0",
+    "moment": "^2.10.3",
+    "sequelize": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carrington/callimodel.git"
+  },
+  "author": "Daniel Ingraham",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Carrington/callimodel/issues"
+  },
+  "homepage": "https://github.com/Carrington/callimodel#readme"
+}
